@@ -1,0 +1,270 @@
+[
+  {
+    "id": "pork-butt-labor-day",
+    "title": "Smoked Pork Butt",
+    "date": "2025-08-30",
+    "rating": 5,
+    "category": "Pork",
+    "image": "IMG_0790.HEIC",
+    "tags": ["Anniversary", "Holiday"],
+    "specs": {
+      "equipment": "Recteq RT-B380",
+      "fuel": "Smoked Competition Blend Pellets",
+      "meat": "Shoulder (8.40 lbs) - $20.90",
+      "temp_start": 250,
+      "temp_finish": 325
+    },
+    "occasion": {
+      "event": "Labor Day Weekend",
+      "guests": ["Bob", "Carol", "Jim", "Leticia (Planned)"],
+      "notes": "Gathering didn't happen due to Paul's back pain. Cooked Sat for Mon."
+    },
+    "ingredients": ["8.4 lb Pork Shoulder", "Heavy BBQ Rub", "2 Cups Apple Juice"],
+    "steps": [
+      "Score fat side in cross-hatch pattern.",
+      "Cook fat side up at 250°F for 6-8 hours (to 165°F).",
+      "Braise in pan with Apple Juice at 325°F (to 203°F).",
+      "Rest in oven at 170°F for 30-60 mins."
+    ]
+  },
+  {
+    "id": "turkey-thanksgiving",
+    "title": "Rotisserie Turkey",
+    "date": "2025-11-26",
+    "rating": 5,
+    "category": "Poultry",
+    "image": "IMG_0792.HEIC",
+    "tags": ["Holiday", "Perfect"],
+    "specs": {
+      "equipment": "Blaze Grill Rear Burner",
+      "fuel": "Hickory Chips",
+      "meat": "Whole Turkey (10.81 lbs)",
+      "temp_start": 350,
+      "temp_finish": 350
+    },
+    "occasion": {
+      "event": "Thanksgiving",
+      "guests": ["Mitch", "Nicole"],
+      "notes": "Counter weight used, rotates smoothly."
+    },
+    "ingredients": ["10.81 lb Turkey", "Butter Sauce w/ Rosemary", "Farm Dust Rub", "Drip Pan Veggies"],
+    "steps": [
+      "Inject with Butter Sauce night before.",
+      "Truss legs, wrap with twine (add 3 pieces for sectioning).",
+      "Cook at 350°F for 2 hours.",
+      "Baste every hour until 165°F."
+    ]
+  },
+  {
+    "id": "ribs-wings-oct",
+    "title": "St. Louis Ribs & Wings",
+    "date": "2025-10-23",
+    "rating": 4.9,
+    "category": "Pork",
+    "image": "IMG_0791.HEIC",
+    "tags": ["Family Dinner"],
+    "specs": {
+      "equipment": "RecTeq RT-B380",
+      "fuel": "Comp Blend / Weber Smoky Brown Sugar",
+      "meat": "Ribs (3.69 lbs)",
+      "temp_start": 225,
+      "temp_finish": 400
+    },
+    "occasion": {
+      "event": "Dinner",
+      "guests": ["Nicole", "Andrew", "Laura"],
+      "notes": "Nicole likes the Farm Dust Rub on wings."
+    },
+    "ingredients": ["3.69 lbs Ribs", "Brown Sugar/Butter/Honey", "Apple Juice", "Wings (Farm Dust)"],
+    "steps": [
+      "Smoke Ribs 225°F for 3 hours.",
+      "Wrap for 2 hours with tenderizing mix.",
+      "Glaze with BBQ sauce for 60 mins.",
+      "Cook wings at 400°F for 60 mins."
+    ]
+  },
+  {
+    "id": "country-style-fail",
+    "title": "Country Style Ribs",
+    "date": "2025-05-28",
+    "rating": 2,
+    "category": "Pork",
+    "image": "IMG_0795.HEIC",
+    "tags": ["Fail", "Never Again"],
+    "specs": {
+      "equipment": "RecTeq RT-B380",
+      "fuel": "Mesquite Pellets",
+      "meat": "Country Style Ribs (4.58 lbs)",
+      "temp_start": 275,
+      "temp_finish": 195
+    },
+    "occasion": {
+      "event": "Dinner",
+      "notes": "Tough Meat. Don't Buy Again!"
+    },
+    "ingredients": ["4.58 lbs Country Style Ribs"],
+    "steps": [
+      "Smoke at 275°F for 1.5 hours.",
+      "Wrap for 1.5 hours until 195°F."
+    ]
+  },
+  {
+    "id": "xmas-ribeyes",
+    "title": "Boneless Ribeye Steaks",
+    "date": "2024-12-24",
+    "rating": 5,
+    "category": "Beef",
+    "image": "IMG_0802.HEIC",
+    "tags": ["Holiday", "Best Cut"],
+    "specs": {
+      "equipment": "Blaze Grill / 4 LTE2",
+      "fuel": "Gas",
+      "meat": "Ribeye Steaks (2.49 lbs)",
+      "temp_start": 300,
+      "temp_finish": 145
+    },
+    "occasion": {
+      "event": "Christmas Eve",
+      "guests": ["Mitch", "Laura"],
+      "notes": "Best Cut of meat! Was great! Be Patient with thickness."
+    },
+    "ingredients": ["2.49 lbs Ribeye Steaks (3 inch thick)", "Salt & Pepper"],
+    "steps": [
+      "Rub salt & pepper on all sides/ends.",
+      "Grill 300°-400°F until 145°F internal.",
+      "Used Meater+ thermometer."
+    ]
+  },
+  {
+    "id": "sausage-pool-record",
+    "title": "Smoked Bratwurst",
+    "date": "2025-05-16",
+    "rating": 5,
+    "category": "Pork",
+    "image": "IMG_0798.HEIC",
+    "tags": ["Pool Record", "Perfect"],
+    "specs": {
+      "equipment": "RecTeq RT-B380",
+      "fuel": "Mesquite / Sweet BBQ Rub",
+      "meat": "Fresh Sausage (1.25 lbs)",
+      "temp_start": 275,
+      "temp_finish": 275
+    },
+    "occasion": {
+      "event": "Casual Gathering",
+      "guests": ["Jim", "Paul", "Leticia (Pound Cake)"],
+      "notes": "Jim & Paul set #12 record in pool w/ Beach Ball volley. Perfect!"
+    },
+    "ingredients": ["1.25 lbs Fresh Sausage", "Heath Riles Sweet BBQ Rub"],
+    "steps": [
+      "Season with Sweet BBQ Rub.",
+      "Cook at 275°F for 60 minutes."
+    ]
+  },
+  {
+    "id": "chicken-legs-crispy",
+    "title": "Smoked BBQ Chicken Legs",
+    "date": "2025-01-14",
+    "rating": 4,
+    "category": "Poultry",
+    "image": "IMG_0801.HEIC",
+    "tags": ["Laura's Critique"],
+    "specs": {
+      "equipment": "RecTeq RT-B380",
+      "fuel": "Honey Hickory / Farm Dust",
+      "meat": "Drumsticks (5.71 lbs)",
+      "temp_start": 325,
+      "temp_finish": 205
+    },
+    "occasion": {
+      "event": "Dinner",
+      "guests": ["Laura"],
+      "notes": "Laura wants skin to be more crispy!"
+    },
+    "ingredients": ["5.71 lbs Drumsticks", "Olive Oil", "BBQ Sauce"],
+    "steps": [
+      "Olive Oil and Rub prior to smoke.",
+      "Cook 325°F for 1-1.5 hrs.",
+      "Dip in BBQ sauce and caramelize at 200°F."
+    ]
+  },
+  {
+    "id": "chuck-roast-paper",
+    "title": "Prime Boneless Chuck Roast",
+    "date": "2024-12-18",
+    "rating": 3,
+    "category": "Beef",
+    "image": "IMG_0803.HEIC",
+    "tags": ["Butcher Paper"],
+    "specs": {
+      "equipment": "RecTeq RT-B380",
+      "fuel": "Pellets",
+      "meat": "Chuck Roast (1.25 lb)",
+      "temp_start": 275,
+      "temp_finish": 202
+    },
+    "occasion": {
+      "event": "Dinner",
+      "notes": "Didn't eat until next day. Was So, So."
+    },
+    "ingredients": ["1.25 lb Chuck Roast", "Butter"],
+    "steps": [
+      "Smoke 275°F to 145°F internal.",
+      "Wrap in Butcher Paper w/ Butter.",
+      "Cook to 202°F. Rest 45 mins."
+    ]
+  },
+  {
+    "id": "wings-eagles",
+    "title": "Wings (Party Style)",
+    "date": "2024-12-15",
+    "rating": 4,
+    "category": "Poultry",
+    "image": "IMG_0804.HEIC",
+    "tags": ["Game Day", "Eagles"],
+    "specs": {
+      "equipment": "RecTeq RT-B380",
+      "fuel": "Steak Dust Rub",
+      "meat": "Party Style Wings",
+      "temp_start": 400,
+      "temp_finish": 185
+    },
+    "occasion": {
+      "event": "Eagles vs Steelers",
+      "guests": ["Bob", "Carol"],
+      "notes": "Eagles win 20-13. Laura thought too dry, PB liked."
+    },
+    "ingredients": ["Chicken Wings", "Steak Dust Rub"],
+    "steps": [
+      "Rub with Steak Dust.",
+      "Cook at 400°F for 65 minutes."
+    ]
+  },
+  {
+    "id": "corned-beef",
+    "title": "Corned Beef Brisket",
+    "date": "2025-03-16",
+    "rating": 3,
+    "category": "Beef",
+    "image": "IMG_0799.HEIC",
+    "tags": ["St. Patty's", "Experimental"],
+    "specs": {
+      "equipment": "RecTeq RT-B380",
+      "fuel": "Pellets",
+      "meat": "Point Cut Brisket (3.33 lbs)",
+      "temp_start": 270,
+      "temp_finish": 325
+    },
+    "occasion": {
+      "event": "St. Patty's Eve",
+      "guests": ["Laura"],
+      "notes": "Used a Pastrami Rub experiment."
+    },
+    "ingredients": ["3.33 lb Brisket", "Pastrami Rub (Coriander/Mustard)", "Beef Broth"],
+    "steps": [
+      "Soak overnight. Apply Pastrami rub.",
+      "Smoke 270°F for 2.5 hrs.",
+      "Braise with broth/onion at 325°F to 203°F."
+    ]
+  }
+]
